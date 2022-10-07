@@ -1,2 +1,5 @@
-package Massa;public interface FloatMassa {
+package Massa;
+
+public interface FloatMassa {
+    String getMassa();
 }

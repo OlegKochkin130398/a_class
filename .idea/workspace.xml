@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54c6e031-0147-4e97-a4bc-13f4b0f88b03" name="Changes" comment="" />
+    <list default="true" id="54c6e031-0147-4e97-a4bc-13f4b0f88b03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bus_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bus_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElectricBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElectricBus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongCar_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongCar_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Massa/FloatMassa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Massa/FloatMassa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Passat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Passat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Priora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Priora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beeps/Beaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beeps/Beaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beeps/BusSound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beeps/BusSound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beeps/MagicSoung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beeps/MagicSoung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engs/BusEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engs/BusEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engs/ElectricEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engs/ElectricEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engs/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engs/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engs/EngineV12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engs/EngineV12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engs/EngineV6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/engs/EngineV6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2F8cuc5FmxuORX4EqqopZjXe2dF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +49,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/oleg-/IdeaProjects/a_class"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
